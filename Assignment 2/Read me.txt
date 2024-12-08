@@ -1,0 +1,1 @@
+web scraping project aims to extract IMDb ratings, movie titles, and release years from the Top 250 movies list.
